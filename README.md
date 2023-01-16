@@ -11,9 +11,9 @@ Todo conteúdo, teve como base a aula "Criando um Currículo de Sucesso - O Pass
 
 
 <h1>
-    <img src="https://github.com/AtilaMedeiros/resume/blob/main/Resume.jpg">
+    [Click here to see my resume](https://atilamedeiros.github.io/resume/)
 </h1>
 
-[Click here to see my resume](https://atilamedeiros.github.io/resume/)
+   <img src="https://github.com/AtilaMedeiros/resume/blob/main/Resume.jpg">
 
 ---
