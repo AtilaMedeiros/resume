@@ -9,9 +9,8 @@ Todo conteúdo, teve como base a aula "Criando um Currículo de Sucesso - O Pass
 
 ---
 
+<a href="https://atilamedeiros.github.io/resume/" target="_blank">Click here to see my resume</a>
 
-   [Click here to see my resume](https://atilamedeiros.github.io/resume/){:target="_blank"}
-
-   <img src="https://github.com/AtilaMedeiros/resume/blob/main/Resume.jpg">
+ <img src="https://github.com/AtilaMedeiros/resume/blob/main/Resume.jpg">
 
 ---
