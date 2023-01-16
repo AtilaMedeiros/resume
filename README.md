@@ -4,7 +4,7 @@
 ---
 
 <h1>
-    <img src="https://github.com/AtilaMedeiros/appoperacaopolicial/blob/master/github/app.gif">
+    <img src="https://github.com/AtilaMedeiros/resume/blob/main/Resume.jpg">
 </h1>
 
 ## 🔖&nbsp; Sobre
